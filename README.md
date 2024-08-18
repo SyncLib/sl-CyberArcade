@@ -17,6 +17,7 @@ Specific Requirements are optional and configurable in the `config.lua`
 - [Gabz Arcade](https://gabzv.com) - *(Currently not supported, as I don't have a Gabz Subscription. Please message me in the Discord if you can help in any way!)*
 
 **🎯 Supported Minigames:**
+- [QBCore Minigames](https://github.com/qbcore-framework/qb-minigames)
 - [Haaasib Skillchecks - NoPixel v4 Minigames](https://github.com/Haaasib/skillchecks)
 - [Project Sloth UI](https://github.com/Project-Sloth/ps-ui)
 - [Utkuali - Finger Print Minigame](https://github.com/Project-Sloth/ps-ui)
