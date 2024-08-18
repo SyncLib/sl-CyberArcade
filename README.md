@@ -14,7 +14,7 @@ Specific Requirements are optional and configurable in the `config.lua`
 
 **🏠 Supported MLO's:**
 - [Kiiya Arcade](https://www.gta5-mods.com/maps/arcade-bar-interior-mlo-fivem-sp)
-- [Gabz Arcade](https://gabzv.com) - *Currently not supported, as I don't have a Gabz Subscription. Please message me in the Discord if you can help in any way!*
+- [Gabz Arcade](https://gabzv.com) - *(Currently not supported, as I don't have a Gabz Subscription. Please message me in the Discord if you can help in any way!)*
 
 **🎯 Supported Minigames:**
 - [Haaasib Skillchecks - NoPixel v4 Minigames](https://github.com/Haaasib/skillchecks)
